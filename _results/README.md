@@ -1,5 +1,19 @@
 # Results of ALiCT
 
+Table of Contents
+=================
+
+   * [Results of ALiCT](#results-of-alict)
+      * [Table of Contents](#table-of-contents)
+      * [Linguistic Capability Specifications](#linguistic-capability-specifications)
+      * [Experiment Results](#)
+         * [RQ1: Diversity](#)
+         * [RQ2: Effectiveness](#)
+         * [RQ3: Consistency](#)
+<!-- 
+You can find more results at the project site(https://sites.google.com/view/s2lct/home). -->
+
+
 Linguistic Capability Specifications
 =================
 <center>
