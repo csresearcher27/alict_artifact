@@ -137,3 +137,9 @@ Output results are
 {PROJ_DIR}/_results/test_results_hs_hatexplain_random/test_result_analysis.json
 ```
 The output results are ``` The file is parsed version of ``` test_results.txt obtained from [step 3](#3-run-model-on-the-generated-testsuites).
+
+
+Results
+=================
+
+See the documentation [here](_results/README.md)
