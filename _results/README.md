@@ -81,10 +81,19 @@ the test case diversity provided by ALiCT expansion phase of ALiCT is also compa
     <img src="./tables/exp-compare-advattacks.png" alt="sa-test-results" width=auto height=auto title="sa_test_results">
 </p>
 
+<div align="center">
+    <span style="font-size:1.2em">
+        <strong>Table 6: Examples for text generation compared with the syntax-based and adversarial generation baselines.</strong>
+    </span>
+</div>
+<p align="center">
+    <img src="./tables/text-generation-examples.png" alt="text-generation-examples" width=auto height=auto title="text_generation_examples">
+</p>
+
 ### RQ2: Effectiveness
 <div align="center">
     <span style="font-size:1.2em">
-        <strong>Table 6: Results of BERT-base, RoBERTa-base and DistilBERT-base sentiment analysis models on ALiCT test cases using all seeds. BERT-base, RoBERTa-base and DistilBERT-base models are denoted as BERT, RoBERTa and dstBERT,respectively.</strong>
+        <strong>Table 7: Results of BERT-base, RoBERTa-base and DistilBERT-base sentiment analysis models on ALiCT test cases using all seeds. BERT-base, RoBERTa-base and DistilBERT-base models are denoted as BERT, RoBERTa and dstBERT,respectively.</strong>
     </span>
 </div>
 <p align="center">
@@ -93,12 +102,11 @@ the test case diversity provided by ALiCT expansion phase of ALiCT is also compa
 
 <div align="center">
     <span style="font-size:1.2em">
-        <strong>Table 7: Results of dehate-BERT and twitter-RoBERTa hate speech detection models on ALiCT test cases using all seeds. dehate-BERT and twitter-RoBERTa models are denoted as BERT and RoBERTa respectively.</strong>
+        <strong>Table 8: Results of dehate-BERT and twitter-RoBERTa hate speech detection models on ALiCT test cases using all seeds. dehate-BERT and twitter-RoBERTa models are denoted as BERT and RoBERTa respectively.</strong>
     </span>
 </div>
 <p align="center">
     <img src="./tables/hsd-test-results.png" alt="hsd-test-results" width=auto height=auto title="hsd_test_results">
 </p>
-
 
 ### RQ3: Consistency
