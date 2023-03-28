@@ -23,7 +23,7 @@ Linguistic Capability Specifications
     </span>
 </center>
 <p align="center">
-    <img src="./tables/lc-spec-table.png" alt="adatest_overview" width=auto height=auto title="lc_spec_table">
+    <img src="./tables/lc-spec-table.png" alt="sa-lc-spec" width=auto height=auto title="lc_spec_table">
 </p>
 
 <center>
@@ -33,5 +33,5 @@ Linguistic Capability Specifications
     </span>
 </center>
 <p align="center">
-    <img src="./tables/hsd-lc-spec-table.png" alt="adatest_overview" width=auto height=auto title="lc_spec_table">
+    <img src="./tables/hsd-lc-spec-table.png" alt="hsd-lc-spec" width=auto height=auto title="hsd_lc_spec_table">
 </p>
