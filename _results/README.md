@@ -17,7 +17,7 @@ You can find more results at the project site(https://sites.google.com/view/s2lc
 Linguistic Capability Specifications
 =================
 <center>
-    <span style="font-size:1.3em">
+    <span style="font-size:1.3em;text-align: center;">
     <strong>Table 1: Search predicates for ten linguistic capabilities of sentiment analysis.
     </strong>
     </span>
@@ -27,7 +27,7 @@ Linguistic Capability Specifications
 </p>
 
 <center>
-    <span style="font-size:1.3em">
+    <span style="font-size:1.3em;text-align: center;">
     <strong>Table 2: Search predicates for ten linguistic capabilities of hate speech detection.
     </strong>
     </span>
