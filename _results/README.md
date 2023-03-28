@@ -47,7 +47,7 @@ Given the generated test cases from the ALiCT and [capability testing baselines]
     </span>
 </div>
 <p align="center">
-    <img src="./tables/model-under-test.png" alt="lc-spec-table" width=auto height=auto title="lc_spec_table">
+    <img src="./tables/model-under-test.png" alt="model-under-test" width=auto height=auto title="model_under_test">
 </p>
 
 ### Evaluation of of expansion phase of ALiCT
@@ -62,10 +62,43 @@ the test case diversity provided by ALiCT expansion phase of ALiCT is also compa
 > SememePSO-attack: [Word-level textual adversarial attacking as combinatorial optimization](https://arxiv.org/abs/1910.12196)
 
 
-
 ## Experiment Results
 ### RQ1: Diversity
+<div align="center">
+    <span style="font-size:1.5em">
+        <strong>Table 4: Comparison results against MT-NLP.</strong>
+    </span>
+</div>
+<p align="center">
+    <img src="./tables/exp-compare-mtnlp.png" alt="sa-test-results" width=auto height=auto title="sa_test_results">
+</p>
+<div align="center">
+    <span style="font-size:1.5em">
+        <strong>Table 5: Comparison results against adversarial attacks.</strong>
+    </span>
+</div>
+<p align="center">
+    <img src="./tables/exp-compare-advattacks.png" alt="sa-test-results" width=auto height=auto title="sa_test_results">
+</p>
 
 ### RQ2: Effectiveness
+<div align="center">
+    <span style="font-size:1.2em">
+        <strong>Table 6: Results of BERT-base, RoBERTa-base and DistilBERT-base sentiment analysis models on ALiCT test cases using all seeds. BERT-base, RoBERTa-base and DistilBERT-base models are denoted as BERT, RoBERTa and dstBERT,respectively.</strong>
+    </span>
+</div>
+<p align="center">
+    <img src="./tables/sa-test-results.png" alt="sa-test-results" width=auto height=auto title="sa_test_results">
+</p>
+
+<div align="center">
+    <span style="font-size:1.2em">
+        <strong>Table 7: Results of dehate-BERT and twitter-RoBERTa hate speech detection models on ALiCT test cases using all seeds. dehate-BERT and twitter-RoBERTa models are denoted as BERT and RoBERTa respectively.</strong>
+    </span>
+</div>
+<p align="center">
+    <img src="./tables/hsd-test-results.png" alt="hsd-test-results" width=auto height=auto title="hsd_test_results">
+</p>
+
 
 ### RQ3: Consistency
