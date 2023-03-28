@@ -16,12 +16,12 @@ You can find more results at the project site(https://sites.google.com/view/s2lc
 
 Linguistic Capability Specifications
 =================
-<center>
-    <span style="font-size:1.3em;text-align: center;">
-    <strong>Table 1: Search predicates for ten linguistic capabilities of sentiment analysis.
-    </strong>
+<p style="text-align: center;">
+    <span style="font-size:1.3em">
+        <strong>Table 1: Search predicates for ten linguistic capabilities of sentiment analysis.</strong>
+      </p>
     </span>
-</center>
+</p>
 <p align="center">
     <img src="./tables/lc-spec-table.png" alt="sa-lc-spec" width=auto height=auto title="lc_spec_table">
 </p>
